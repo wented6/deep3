@@ -1,6 +1,6 @@
 token=NTIzMjU2MzM1OTIwMjY3Mjc3.DvW7Iw.KRm6SmR6nJ9rqXHUwPVUZ5u33uk
 owner=521341978659651596
 prefix= 3
-game= i
+game=
 stayinchannel=true
 songinstatus=false
